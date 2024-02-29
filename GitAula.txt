@@ -1,2 +1,7 @@
+
 Teste Aula Git
 Outra modificacao feita pelo computador local
+
+Teste Aula Git
+--Atualizado pelo editor do GitHub
+
